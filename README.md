@@ -1,4 +1,6 @@
 # demo
 first git repository
 <br>
-Author - Himanshu
+Author - Himanshu (jangid)
+
+
